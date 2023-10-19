@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.capa{
+    background-image: url("./img/capa-img-TVD.webp");
+    background-repeat: no-repeat;
+    height: 800px;
+    background-position: center;
+}
+
+nav{
+    font-size: 40px;
+    height: 50px;
+    word-spacing: 20px;
+    text-align: center;
+    background-color: rgb(155, 67, 67);
+}
+
+.sobre{
+    font-size: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    transition: 0.40s;
+}
+
+a:hover{
+    font-size: 50px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+.sobretvd{
+    font-size: 40px;
+}
